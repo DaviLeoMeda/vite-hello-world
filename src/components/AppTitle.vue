@@ -1,5 +1,5 @@
 <template>
-    ggg
+    
 </template>
 
 <style scoped>
